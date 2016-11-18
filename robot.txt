@@ -1,0 +1,9 @@
+# Robot.txt file for ...
+
+User-agent: Google
+Disallow:
+
+User-agent: *
+Disallow: /_posts/
+
+Crawl-delay: 1
