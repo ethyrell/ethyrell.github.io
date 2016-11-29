@@ -1,12 +1,12 @@
 # Site settings
-title: Emil's Blog
+title: Emils Blog
 email: et222jv@student.lnu.se
 description: > # this means to ignore newlines until "baseurl:"
-  Personal profile for Emil Thyrell, developer. Personal blog and information
-  cv me.
+  This site is the front where I publish the work done while studying
+  Client Based Web Development.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: EmilThyrell
 github_username:  ethyrell
 
 # Build settings
