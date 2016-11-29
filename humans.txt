@@ -1,5 +1,5 @@
 /* TEAM */
-	Chef: Emil Thyrell
+	Developer: Emil Thyrell
 	Contact: et222jv@student.lnu.se
 	From: Ljusdal, Gavleborg, Sweden
 

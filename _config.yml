@@ -3,7 +3,7 @@ title: Emil's Blog
 email: et222jv@student.lnu.se
 description: > # this means to ignore newlines until "baseurl:"
   Personal profile for Emil Thyrell, developer. Personal blog and information
-  about_emil me.
+  cv me.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
