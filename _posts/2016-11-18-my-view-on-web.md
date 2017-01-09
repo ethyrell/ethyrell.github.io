@@ -6,8 +6,8 @@ date:       2016-11-30 01:08:44
 summary:    In this post I will answer some questions and discuss some topics 
             regarding som basics in client based web development, brought...
 ---
-####In this post I will answer some questions and discuss some topics regarding som basics in client based web development, brought to me by course 1dv022 at Lineaus University, Kalmar, Sweden.
------
+In this post I will answer some questions and discuss some topics regarding som basics in client based web development, brought to me by course 1dv022 at Lineaus University, Kalmar, Sweden.
+----
 - **What do you think of pre-compiling your CSS?**
     - **Compare to regular CSS**
     
@@ -69,11 +69,11 @@ summary:    In this post I will answer some questions and discuss some topics
     
 - *How did you implements comments to blog posts*
     
-    With DISQUS
+With DISQUS
 
 - *What is Open Graph and how do you make use of it?*
 
-    Open Graph generates stylish links containing data like title, image etc. 
-    When content from the site which has Open Graph implemented is shared, Open Graph
-    makes it so that the shared link looks informing and appealing to other people on social
-    networks.
+Open Graph generates stylish links containing data like title, image etc. 
+When content from the site which has Open Graph implemented is shared, Open Graph
+makes it so that the shared link looks informing and appealing to other people on social
+networks.
