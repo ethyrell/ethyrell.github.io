@@ -3,8 +3,8 @@ layout:     post
 categories: example
 title:      "Second Post"
 date:       2016-11-18 10:52
-summary:    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent convallis 
-            eget nulla ut convallis. Integer at vehicula augue. Donec ultricies suscipit...
+summary:    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent convallis 
+            eget nulla ut convallis. Integer at vehicula augue. Donec ultricies suscipit..."
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent convallis
 eget nulla ut convallis. Integer at vehicula augue. Donec ultricies suscipit

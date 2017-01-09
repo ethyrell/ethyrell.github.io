@@ -3,8 +3,8 @@ layout:     post
 categories: example
 title:      "First Post"
 date:       2016-11-18 12:22
-summary:    Integer ex mi, aliquam non congue et, convallis vestibulum elit.
-            Nullam sed interdum nisl, ut ultrices feli...
+summary:    "Integer ex mi, aliquam non congue et, convallis vestibulum elit.
+            Nullam sed interdum nisl, ut ultrices feli..."
 ---
 Integer ex mi, aliquam non congue et, convallis vestibulum elit. Nullam sed interdum nisl, ut ultrices felis. 
 Maecenas in ante pulvinar, ornare odio eu, faucibus risus. Nam pretium sem ut turpis aliquam, eu lobortis dui

@@ -3,8 +3,8 @@ layout:     post
 categories: assignment
 title:      "My views on SSG and pre-compiled CSS"
 date:       2016-11-30 01:08:44
-summary:    In this post I will answer some questions and discuss some topics 
-            regarding som basics in client based web development, brought...
+summary:    "In this post I will answer some questions and discuss some topics 
+            regarding som basics in client based web development, brought..."
 ---
 In this post I will answer some questions and discuss some topics regarding som basics in client based web development, brought to me by course 1dv022 at Lineaus University, Kalmar, Sweden.
 ----
